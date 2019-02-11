@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees>
+
+        <record emp_no = "101">
+            <name>Gupta</name>
+            <position>Software Developer</position>
+        </record>
+
+        <record emp_no = "102">
+            <name>Vijay</name>
+            <position>Senior Software Developer</position>
+        </record>
+
+</employees>
